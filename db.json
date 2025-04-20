@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "sam 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "sam post1" },
+    { "id": 2, "title": "sam post2" },
+    { "id": 3, "title": "sam post3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "这是内容1", "postId": 1 },
+    { "id": 2, "body": "这是内容2", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Sam Uncle"
   }
 }
